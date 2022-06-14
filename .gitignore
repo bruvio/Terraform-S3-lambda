@@ -1,0 +1,7 @@
+# Module directory
+terraform/.terraform/
+terraform/*.hcl
+.vscode
+
+# lambda package
+package/
